@@ -4,7 +4,7 @@
         <description><![CDATA[EFFJAYS]]></description>
         <link>https://thegrid.ai/effjays/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 06:04:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2016 06:04:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/effjays/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Halloween 2015]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 14 Feb 2016 05:51:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Christmas 2015]]></title>
+            <description><![CDATA[<article><h1>Christmas 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15405cacc37b435929f24d5d231b89ade7d774ba.png"></article>]]></description>
+            <link>https://thegrid.ai/effjays/christmas-2015/index.html</link>
+            <guid isPermaLink="false">526cd5a9-77e1-4704-abfa-b4ffc00951ed</guid>
+            <pubDate>Sun, 14 Feb 2016 06:03:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New Year 2016]]></title>
-            <description><![CDATA[<article><h1>New Year 2016</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f298f8972b3b1ced085e54f293b6fd8f0a1e727c.png"></article>]]></description>
+            <description><![CDATA[<article><h1>New Year 2016</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/344d58f0bd42c6881818762e8ebcd06e3d18d8ab.png"></article>]]></description>
             <link>https://thegrid.ai/effjays/new-year-2016/index.html</link>
             <guid isPermaLink="false">0aa7a970-50f0-49ec-a93b-0c2e5e17f02f</guid>
             <pubDate>Sun, 14 Feb 2016 06:03:15 GMT</pubDate>
