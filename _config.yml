@@ -1,8 +1,19 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.5702103
+  brandStrength: 0.8372717
   lightness: 0.7472251
-  brandStrength: 0.2309758
   brandColors:
     - '#280142'
     - '#42FF15'
@@ -11,4 +22,5 @@ color:
     - '#F30216'
   rhythmicContrast: 0.7016522
 typography_spectrum: 0.09076262
+layout_spectrum: 0.6954887
 name: EFFJAYS
