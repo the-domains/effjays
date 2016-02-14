@@ -4,8 +4,15 @@
         <description><![CDATA[EFFJAYS]]></description>
         <link>https://thegrid.ai/effjays/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 06:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2016 20:27:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/effjays/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Halloween 2015]]></title>
+            <description><![CDATA[<article><h1>Halloween 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b21da561fc306c4453e4d332fce9f4542b9dca5.png"></article>]]></description>
+            <link>https://thegrid.ai/effjays/halloween-2015/index.html</link>
+            <guid isPermaLink="false">ade3cc8d-50da-4bfa-8328-09047a147f8b</guid>
+            <pubDate>Sun, 14 Feb 2016 20:27:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Thanksgiving 2015]]></title>
             <description><![CDATA[<article><h1>Thanksgiving 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b458575156e49f1e84ca65511f47c1a319b3d94.png"></article>]]></description>
@@ -43,17 +50,10 @@
         </item>
         <item>
             <title><![CDATA[Christmas 2015]]></title>
-            <description><![CDATA[<article><h1>Christmas 2015</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b061e31f-1a4b-424e-a0f9-28e423b420aa.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Christmas 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e43eaac357f92b79116b9c8bb2cb60ab91ceaee.png"></article>]]></description>
             <link>https://thegrid.ai/effjays/christmas-2015/index.html</link>
             <guid isPermaLink="false">41eb413b-47ac-41c5-b58b-2b3dce997df9</guid>
             <pubDate>Sun, 14 Feb 2016 06:20:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Halloween 2015]]></title>
-            <description><![CDATA[<article><h1>Halloween 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e37cc4e36497e6ad535b80c1b8571e3e9cf71c1c.png"></article>]]></description>
-            <link>https://thegrid.ai/effjays/halloween-2015/index.html</link>
-            <guid isPermaLink="false">ade3cc8d-50da-4bfa-8328-09047a147f8b</guid>
-            <pubDate>Sun, 14 Feb 2016 06:03:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
