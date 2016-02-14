@@ -4,28 +4,21 @@
         <description><![CDATA[EFFJAYS]]></description>
         <link>https://thegrid.ai/effjays/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 20:34:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2016 20:36:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/effjays/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><p>THE EFF-JAY FAMILY</p></article>]]></description>
-            <link>https://thegrid.ai/effjays/home/index.html</link>
-            <guid isPermaLink="false">c4c68c6f-6895-4a92-a7c6-09fb9d9cf293</guid>
-            <pubDate>Sun, 14 Feb 2016 20:30:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Halloween 2015]]></title>
-            <description><![CDATA[<article><h1>Halloween 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b21da561fc306c4453e4d332fce9f4542b9dca5.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Halloween 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3dd71b26266f629106f2af5373d0476eb2b2adf.png"></article>]]></description>
             <link>urn:uuid:7c37dd96-5d50-4f59-9bc9-7212eb842e67</link>
             <guid isPermaLink="false">ade3cc8d-50da-4bfa-8328-09047a147f8b</guid>
             <pubDate>Sun, 14 Feb 2016 20:31:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Thanksgiving 2015]]></title>
-            <description><![CDATA[<article><h1>Thanksgiving 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b458575156e49f1e84ca65511f47c1a319b3d94.png"></article>]]></description>
-            <link>https://thegrid.ai/effjays/thanksgiving-2015/index.html</link>
+            <description><![CDATA[<article><h1>Thanksgiving 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdee22d3c734b3c689df30033fa442c40991f211.png"></article>]]></description>
+            <link>urn:uuid:e58ae412-9a35-4ed5-89ad-a3861c1acd81</link>
             <guid isPermaLink="false">302dc9f1-26e2-460e-8947-0c9a0e5b7d42</guid>
-            <pubDate>Sun, 14 Feb 2016 06:05:42 GMT</pubDate>
+            <pubDate>Sun, 14 Feb 2016 20:30:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Christmas 2015]]></title>
