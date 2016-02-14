@@ -4,8 +4,15 @@
         <description><![CDATA[EFFJAYS]]></description>
         <link>https://thegrid.ai/effjays/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 21:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2016 21:19:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/effjays/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Christmas 2015]]></title>
+            <description><![CDATA[<article><h1>Christmas 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02f6722fd3a28d4486c1db2162f89c7fd5eea738.png"></article>]]></description>
+            <link>https://thegrid.ai/effjays/christmas-2015/index.html</link>
+            <guid isPermaLink="false">185f0ea5-54ba-4b21-ba8d-a0cdede80da1</guid>
+            <pubDate>Sun, 14 Feb 2016 21:19:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Halloween 2015]]></title>
             <description><![CDATA[<article><h1>Halloween 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3dd71b26266f629106f2af5373d0476eb2b2adf.png"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Thanksgiving 2015]]></title>
-            <description><![CDATA[<article><h1>Thanksgiving 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b458575156e49f1e84ca65511f47c1a319b3d94.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Thanksgiving 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdee22d3c734b3c689df30033fa442c40991f211.png"></article>]]></description>
             <link>urn:uuid:e58ae412-9a35-4ed5-89ad-a3861c1acd81</link>
             <guid isPermaLink="false">302dc9f1-26e2-460e-8947-0c9a0e5b7d42</guid>
             <pubDate>Sun, 14 Feb 2016 21:09:34 GMT</pubDate>
