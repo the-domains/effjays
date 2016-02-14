@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[EFFJAYS]]></title>
         <description><![CDATA[EFFJAYS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/effjays/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 05:27:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Feb 2016 05:28:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/effjays/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hanukkah 2015]]></title>
-            <description><![CDATA[<article><h1>Hanukkah 2015</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/edd23c57-b951-4e11-b4e7-0b463533ef2b.png"></article>]]></description>
-            <link>undefinedhanukkah-2015/index.html</link>
+            <description><![CDATA[<article><h1>Hanukkah 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d29ea1e57251f2b71e32b6f6a68df69eabf69896.png"></article>]]></description>
+            <link>https://thegrid.ai/effjays/hanukkah-2015/index.html</link>
             <guid isPermaLink="false">1387ae86-f89b-4eb4-b499-4ea5bac742da</guid>
-            <pubDate>Sun, 14 Feb 2016 05:27:01 GMT</pubDate>
+            <pubDate>Sun, 14 Feb 2016 05:27:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
