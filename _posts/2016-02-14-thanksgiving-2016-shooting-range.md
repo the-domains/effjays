@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-02-14T05:48:17.765Z'
+datePublished: '2016-02-14T05:51:43.360Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: Thanksgiving 2016 - Shooting Range
-dateModified: '2016-02-14T05:47:26.204Z'
+dateModified: '2016-02-14T05:51:35.344Z'
 sourcePath: _posts/2016-02-14-thanksgiving-2016-shooting-range.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
