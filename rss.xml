@@ -4,8 +4,15 @@
         <description><![CDATA[The Frederick-Jilg Clan]]></description>
         <link>https://thegrid.ai/effjays/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 21:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2016 21:37:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/effjays/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Halloween 2015]]></title>
+            <description><![CDATA[<article><h1>Halloween 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3dd71b26266f629106f2af5373d0476eb2b2adf.png"></article>]]></description>
+            <link>urn:uuid:7c37dd96-5d50-4f59-9bc9-7212eb842e67</link>
+            <guid isPermaLink="false">ade3cc8d-50da-4bfa-8328-09047a147f8b</guid>
+            <pubDate>Sun, 14 Feb 2016 21:35:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Thanksgiving 2015]]></title>
             <description><![CDATA[<article><h1>Thanksgiving 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdee22d3c734b3c689df30033fa442c40991f211.png"></article>]]></description>
@@ -21,15 +28,8 @@
             <pubDate>Sun, 14 Feb 2016 21:28:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Halloween 2015]]></title>
-            <description><![CDATA[<article><h1>Halloween 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3dd71b26266f629106f2af5373d0476eb2b2adf.png"></article>]]></description>
-            <link>urn:uuid:7c37dd96-5d50-4f59-9bc9-7212eb842e67</link>
-            <guid isPermaLink="false">ade3cc8d-50da-4bfa-8328-09047a147f8b</guid>
-            <pubDate>Sun, 14 Feb 2016 20:31:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Thanksgiving 2015]]></title>
-            <description><![CDATA[<article><h1>Thanksgiving 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/363f41566b6b05ebf03c6ffdf9aa9c2d4f4801b4.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Thanksgiving 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fcfbd20d57a4f78f5fab9e0efa833f73e3a436d.png"></article>]]></description>
             <link>urn:uuid:491cc0d9-2a60-4d14-9fb5-0a3ca4407290</link>
             <guid isPermaLink="false">cf6f623a-0a0b-434c-a814-2176b2359b3a</guid>
             <pubDate>Sun, 14 Feb 2016 21:35:12 GMT</pubDate>
