@@ -1,19 +1,24 @@
 ---
 description: ''
+isBasedOnUrl: 'urn:uuid:fc5a6832-5818-423b-959d-07c7b7d16ffb'
 author: []
-datePublished: '2016-02-14T06:05:42.565Z'
+datePublished: '2016-02-14T21:34:22.404Z'
 publisher:
   name: ''
   domain: ''
+  url: null
+  favicon: null
 title: "Cade's Birthday 2015"
-dateModified: '2016-02-14T06:05:40.602Z'
+dateModified: '2016-02-14T21:33:07.093Z'
 starred: true
 sourcePath: _posts/2016-02-14-cades-birthday-2015.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: cades-birthday-2015/index.html
+inLanguage: null
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 
