@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5702103
+  lightness: 0.7472251
+  brandStrength: 0.2309758
+  brandColors:
+    - '#280142'
+    - '#42FF15'
+    - '#FAFB21'
+    - '#4201E9'
+    - '#F30216'
+  rhythmicContrast: 0.7016522
+typography_spectrum: 0.09076262
+name: EFFJAYS
