@@ -1,3 +1,7 @@
+name: EFFJAYS
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.09076262
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2422127
-  brandStrength: 0.1863587
-  rhythmicContrast: 0.255102
   brandColors:
     - '#87BCB5'
     - '#160D17'
     - '#7F654B'
     - '#43B4A3'
     - '#FB884B'
-  lightness: 0.7298604
-typography_spectrum: 0.09076262
-layout_spectrum: 0
-name: EFFJAYS
+  brandStrength: 0
+  lightness: 0.5625
+  saturation: 0.375
+  rhythmicContrast: 0.5
+purpose: []
